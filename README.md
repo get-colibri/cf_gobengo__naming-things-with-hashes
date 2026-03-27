@@ -14,4 +14,6 @@ const example_8_2 = 'ni:///sha-256;UyaQV-Ev4rdLoHyJJWCi11OHfrYv9E1aGQAlMO2X_-Q'
 const ni = RFC6920.parse(example_8_2)
 ```
 
+Looks good to me!
+
 &#8203;
